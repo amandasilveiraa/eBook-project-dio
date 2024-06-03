@@ -48,12 +48,6 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 ## 👩‍💻 Autora
 
 <p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src=""
-    />
     <p>&nbsp&nbsp&nbspAmanda Silveira<br>
     &nbsp&nbsp&nbsp
     <a href="https://github.com/amandasilveiraa">
